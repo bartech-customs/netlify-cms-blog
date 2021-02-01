@@ -23,8 +23,9 @@ collections:
           label: 'Featured Image',
           name: 'thumbnail',
           widget: 'image',
-          default: '/uploads/chocolate-dogecoin.jpg',
-          media_library: '/uploads/',
+          default: '',
+          media_library: 'static/img',
+          media_folder: 'static/img',
           config: '',
           multiple: true,
         }
