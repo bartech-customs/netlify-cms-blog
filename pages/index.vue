@@ -4,6 +4,7 @@
       <Logo />
       <h1 class="title">bloq</h1>
       <div class="links">
+        <NuxtLink to="/posts" class="button--grey"> Posts </NuxtLink>
         <a
           href="https://nuxtjs.org/"
           target="_blank"
