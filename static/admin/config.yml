@@ -24,7 +24,7 @@ collections:
           name: 'thumbnail',
           widget: 'image',
           default: '/uploads/chocolate-dogecoin.jpg',
-          media_library: '',
+          media_library: '/uploads/',
           config: '',
           multiple: true,
         }
